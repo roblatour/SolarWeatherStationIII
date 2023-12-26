@@ -367,7 +367,7 @@
         "qos": "2",
         "rap": true,
         "rh": 0,
-        "topic": "WeatherStation-1/temperature",
+        "topic": "WeatherStationIII/temperature",
         "type": "mqtt in",
         "wires": [
             [
@@ -389,7 +389,7 @@
         "qos": "2",
         "rap": true,
         "rh": 0,
-        "topic": "WeatherStation-1/pressure",
+        "topic": "WeatherStationIII/pressure",
         "type": "mqtt in",
         "wires": [
             [
@@ -411,7 +411,7 @@
         "qos": "2",
         "rap": true,
         "rh": 0,
-        "topic": "WeatherStation-1/humidity",
+        "topic": "WeatherStationIII/humidity",
         "type": "mqtt in",
         "wires": [
             [
