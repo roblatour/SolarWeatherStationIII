@@ -12,6 +12,12 @@ Here's a little about my first two attempts to put together a Solar Powered Weat
 
 **Attempt III** has proven much more successful, and indeed has already survived December 21st (2023) - the shortest day of the year - along with below zero temperatures.  The secret-sauce is in the hardware used to power the solution.  For this the battery and charger from the first two attempts were replaced by a [750F Lithium Ion Capacitor](https://www.aliexpress.com/item/1005004881819434.html) and [one of these boards](https://www.tindie.com/products/jaspersikken/solar-harvesting-into-lithium-ion-capacitor/) supplying a regulated 3.3 volts.  Additionally, using these two components allowed the size of the solar panel be significantly reduced to 48 mm x 65 mm.   The solution also leveraged the very low deep sleep power consumption of an [Unexpected Maker's FeatherS3](https://unexpectedmaker.com/shop.html#!/FeatherS3/p/577111310/category=154222511) board.  With the FeatherS3 I also include the optional [External u.FL 2.4Ghz Antenna](https://unexpectedmaker.com/shop.html#!/Ext-u-FL-2-4Ghz-Antenna/p/578941059) to help ensure a strong Wi-Fi signal.
 
+Here's the size difference between the solar panel used in Attempts I  & II vs III:
+
+![Attempts I & II](https://github.com/roblatour/SolarWeatherStationIII/blob/main/Images/AttemptIandII.jpg)
+
+![Attempt III](https://github.com/roblatour/SolarWeatherStationIII/blob/main/Images/AttemptIII.jpg)
+
 **Plans for a fourth attempt** are on the way.  These include updating the design, and releasing the code, for more or less the same solution with the exception that I would like to try out the [Unexpected Maker's TinyC6](https://unexpectedmaker.com/shop.html#!/TinyC6/p/602208790/category=0) board in order to achieve a WiFi-6 solution.  I do however plan to let Attempt III run a little longer, so that it will have time to deal with much colder temperatures outside temperatures, before moving ahead.
 
 So please stay tunned ... 
