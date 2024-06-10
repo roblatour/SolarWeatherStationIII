@@ -21,3 +21,7 @@ Here's the size difference between the solar panel used in Attempts I  & II (fir
 **Plans for a fourth attempt** are on the way.  These include updating the design, and releasing the code, for more or less the same solution with the exception that I would like to try out the [Unexpected Maker's TinyC6](https://unexpectedmaker.com/shop.html#!/TinyC6/p/602208790/category=0) board in order to achieve a WiFi-6 solution.  I do however plan to let Attempt III run a little longer, so that it will have time to deal with much colder outside temperatures, before moving ahead.
 
 So please stay tunned ... 
+
+## Support
+
+[<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
