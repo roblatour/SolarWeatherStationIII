@@ -1,9 +1,9 @@
 // Solar Weather Station III
 //
-// Copyright Rob Latour, 2023
+// Copyright Rob Latour, 2024
 // License: MIT
 //
-// https://rlatour.com/SolarWeatherStationIII
+// https://github.com/roblatour/SolarWeatherStationIII
 //
 // Compile and upload using Arduino IDE (2.2.2 or greater)
 //
@@ -40,9 +40,9 @@
 #include <UMS3.h>
 UMS3 ums3;
 
-#include <WiFi.h>
 
 #include <EspMQTTClient.h>  // https://github.com/plapointe6/EspMQTTClient
+                            // please also ensure this patch is applied: https://github.com/plapointe6/EspMQTTClient/pull/138/files
 
 #include <Wire.h>
 #include <SPI.h>
