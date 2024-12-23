@@ -130,8 +130,6 @@ void getAndPublishReadings() {
 
     bool readingsPerformed = bme.performReading();
 
-    ums3.setLDO2Power(false);
-
     if (readingsPerformed) {
 
       temperature = bme.temperature;
@@ -161,6 +159,8 @@ void getAndPublishReadings() {
 
       publishStatus("error_message", errorMessage);
     };
+	
+	ums3.setLDO2Power(false);
 
   } else {
 
