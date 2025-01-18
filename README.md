@@ -22,6 +22,9 @@ Here's the size difference between the solar panel used in Attempts I  & II (fir
 
 So please stay tunned ... 
 
+##Edit: January 2025
+The fourth project has been delayed.  Weather Station III succumbed when several insects got into the case this summer and short circuited the board.  After a long delay, I finally got around to replacing the needed components but the replacement solution has been struggling with lack of daylight over the last couple months - something the original did not have issue with last winter.  Perhaps the Lithium Ion Capacitor is getting too old – if so that is truly disappointing because it would only have been running for about a year now.   
+
 ## Support
 
 [<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
